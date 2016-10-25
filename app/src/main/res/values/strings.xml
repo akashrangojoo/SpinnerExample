@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner Example</string>
+    <string-array name="spinnerArray">
+        <item>RCB</item>
+        <item>SRH</item>
+        <item>DD</item>
+        <item>RR</item>
+        <item>MI</item>
+    </string-array>
+</resources>
